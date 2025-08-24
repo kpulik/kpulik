@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm Kevin Pulikkottil, a Computer Science student at The University of Texas at Dallas (Class of 2026). I’m passionate about AI, machine learning, and innovative software development. I love tackling challenging problems - from building machine learning models for medical diagnostics to developing efficient software solutions.
+I'm Kevin Pulikkottil, a Computer Science student at The University of Texas at Dallas (Class of 2026). I’m passionate about Cybersecurity, AI, machine learning, software development. I love tackling challenging problems - from building machine learning models for medical diagnostics to developing efficient software solutions.
 
 - Currently working on AI research and software engineering projects.
 - Continuously learning new technologies like TensorFlow, AWS, and more.
