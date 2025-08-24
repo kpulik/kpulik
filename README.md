@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center" style="color: #ffffff;">Hi there, I'm Kevin Pulikkottil</h1>
-<h3 align="center" style="color: #ffffff;">Computer Science Student | AI & Machine Learning Enthusiast</h3>
+<h3 align="center" style="color: #ffffff;">Computer Science Student | Cybersecurity, Artifical Intelligence, Machine Learning, and Software Engineering Enthusiast</h3>
 
 <!-- About Me Section -->
 
