@@ -2,11 +2,9 @@
 <p align="center">
   <img src="./Assets/github-header-image.png" alt="Kevin Pulikkottil Banner" />
 </p>
-
 <h1 align="center">Hi, I'm Kevin Pulikkottil</h1>
-<h3 align="center">Cybersecurity Engineering Student @ UT Dallas · Class of 2026</h3>
-<h4 align="center">Applied Cryptography · Secure Systems · AI Security Tooling</h4>
-
+<h3 align="center">Computer Science Student @ UT Dallas · Class of 2026</h3>
+<h4 align="center">Security-Focused · Software Engineering · AI/ML</h4>
 <p align="center">
   <a href="https://linkedin.com/in/kpulik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,13 +21,13 @@
 
 ## About Me
 
-I'm a senior CS student at UT Dallas specializing in cybersecurity engineering, with hands-on experience in cryptographic protocol implementation, secure network infrastructure, and AI developer tooling. Graduating May 2026.
+I'm a senior CS student at UT Dallas with a focus on cybersecurity, software engineering, and AI/ML. Graduating May 2026.
 
 - 🔐 Currently implementing **X25519/X448 ECDH key exchange inside a Trusted Execution Environment** on Arm64 QEMU for Toyota's TMNA Product Cybersecurity Group
 - 🛡️ Active member of UT Dallas **Computer Security Group (CSG)** and **Cyber Defense and Response Unit (CDRU)**
 - 🏠 Self-hosted homelab: Pi-hole DNS filtering, Tailscale VPN mesh, custom firewall configurations
 - 📜 Pursuing **CompTIA Security+**
-- 💼 Open to cybersecurity, DevSecOps, and security-adjacent AI/ML roles
+- 💼 Open to cybersecurity, DevSecOps, software engineering, and AI/ML roles
 
 ---
 
