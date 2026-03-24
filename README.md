@@ -1,50 +1,107 @@
 <!-- Dark Mode Banner Image -->
-
 <p align="center">
   <img src="./Assets/github-header-image.png" alt="Kevin Pulikkottil Banner" />
 </p>
 
-<h1 align="center" style="color: #ffffff;">Hi there, I'm Kevin Pulikkottil</h1>
-<h3 align="center" style="color: #ffffff;">Computer Science Student | Cybersecurity, Artifical Intelligence, Machine Learning, and Software Engineering Enthusiast</h3>
+<h1 align="center">Hi, I'm Kevin Pulikkottil</h1>
+<h3 align="center">Cybersecurity Engineering Student @ UT Dallas · Class of 2026</h3>
+<h4 align="center">Applied Cryptography · Secure Systems · AI Security Tooling</h4>
 
-<!-- About Me Section -->
+<p align="center">
+  <a href="https://linkedin.com/in/kpulik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kpulik.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-blue?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:kevinpul101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 
 ## About Me
 
-I'm Kevin Pulikkottil, a Computer Science student at The University of Texas at Dallas (Class of 2026). I’m passionate about Cybersecurity, AI, machine learning, software engineering. I love tackling challenging problems - from building machine learning models for medical diagnostics to developing efficient software solutions.
+I'm a senior CS student at UT Dallas specializing in cybersecurity engineering, with hands-on experience in cryptographic protocol implementation, secure network infrastructure, and AI developer tooling. Graduating May 2026.
 
-- Currently working on AI research and software engineering projects.
-- Continuously learning new technologies like TensorFlow, AWS, and more.
-- Passionate about solving complex problems in algorithms, data structures, and AI.
-- Feel free to ask me about my projects, cloud computing, or AI innovations.
+- 🔐 Currently implementing **X25519/X448 ECDH key exchange inside a Trusted Execution Environment** on Arm64 QEMU for Toyota's TMNA Product Cybersecurity Group
+- 🛡️ Active member of UT Dallas **Computer Security Group (CSG)** and **Cyber Defense and Response Unit (CDRU)**
+- 🏠 Self-hosted homelab: Pi-hole DNS filtering, Tailscale VPN mesh, custom firewall configurations
+- 📜 Pursuing **CompTIA Security+**
+- 💼 Open to cybersecurity, DevSecOps, and security-adjacent AI/ML roles
 
-<!-- Technical Skills -->
+---
+
+## Featured Projects
+
+### 🔧 [AI Forge](https://github.com/kpulik/ai-forge)
+Five open-source AI developer tools unified into a single local setup and web dashboard. Built a dependency-free Python web server from scratch. Includes **LLM red-team scanning** via PromptFoo and agent memory management via OpenViking.
+
+`Python` `Shell` `Ollama` `PromptFoo` `LLM Security` `Red-Teaming`
+
+---
+
+### 🔑 Toyota TMNA Capstone: TEE Cryptography *(In Progress)*
+Implementing X25519 and X448 Elliptic Curve Diffie-Hellman key exchange within a Trusted Execution Environment for Toyota's Product Cybersecurity Group, targeting an Arm64 QEMU emulation environment.
+
+`Cryptography` `ECDH` `ARM64` `QEMU` `TEE` `C/C++`
+
+---
+
+### 🤖 [AI/ML Projects](https://github.com/kpulik/AI-Projects)
+ML models for medical diagnostics and NLP tasks.
+- Breast cancer detection: 92% accuracy (scikit-learn, pandas, NumPy)
+- CNN digit recognition: 98% accuracy (TensorFlow, Keras)
+- Transformer-based text summarization: 90% coherence score
+- Diabetes prediction regression model with feature engineering
+- YOLOv3 fine-tuning for real-time object detection
+
+`Python` `TensorFlow` `Keras` `scikit-learn` `NumPy`
+
+---
+
+### 🚨 [Crowdsourced Disaster Relief System](https://github.com/ceenguyen05/CS3354Project)
+Collaborative mobile app for real-time disaster coordination and resource tracking.
+
+`Dart` `Flutter`
+
+---
 
 ## Technical Skills
 
+<!-- Languages -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MIPS%20Assembly-FB8E00?style=for-the-badge&logo=asm&logoColor=white" alt="MIPS Assembly" />
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
-  <img src="https://img.shields.io/badge/Prolog-624230?style=for-the-badge&logo=&logoColor=white" alt="Prolog" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-<!-- Project Highlights -->
+<!-- Security & Infra -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA%20Security+-CC0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
+  <img src="https://img.shields.io/badge/Cryptography-333333?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Cryptography" />
+  <img src="https://img.shields.io/badge/QEMU%2FKVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+  <img src="https://img.shields.io/badge/Tailscale-1B2644?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
+  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white" alt="Pi-hole" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
-## Project Highlights
+<!-- AI/ML -->
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/PromptFoo-6366F1?style=for-the-badge&logoColor=white" alt="PromptFoo" />
+</p>
 
-- **Breast Cancer Detection Model:** Developed a machine learning model in Python (scikit-learn, pandas, NumPy) on the Breast Cancer Wisconsin Dataset, achieving 92% accuracy.
-- **Handwritten Digit Recognition:** Built a CNN using TensorFlow and Keras to classify handwritten digits (MNIST Dataset) with 98% accuracy.
-- **Diabetes Metrics Prediction:** Created a regression model in Python that improved predictive accuracy by 15% through feature engineering.
-- **Text Summarization with NLP:** Developed a Transformer-based model achieving 90% coherence in text summaries.
-- **YOLOv3 Fine-Tuning:** Enhanced object detection precision on a custom dataset for real-time applications.
-
-<!-- GitHub Stats -->
+---
 
 ## GitHub Stats
 
@@ -53,18 +110,8 @@ I'm Kevin Pulikkottil, a Computer Science student at The University of Texas at 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpulik&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<!-- GitHub Trophies -->
-
 ## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kpulik&column=7" alt="Kpulik's GitHub Trophies" />
 </p>
-
-
-<p align="center">
-  <a href="https://kpulik.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-blue?style=for-the-badge" alt="Portfolio" />
-  </a>
-</p>
-<!-- Banner Image -->
