@@ -33,8 +33,8 @@ I'm a senior CS student at UT Dallas with a focus on cybersecurity, software eng
 
 ## Featured Projects
 
-### 🔧 [AI Forge](https://github.com/kpulik/ai-forge)
-Five open-source AI developer tools unified into a single local setup and web dashboard. Built a dependency-free Python web server from scratch. Includes **LLM red-team scanning** via PromptFoo and agent memory management via OpenViking.
+### 🔧 [ai-dev-utility](https://github.com/kpulik/ai-dev-utility)
+Four open-source AI developer tools unified into a single local setup and web dashboard. Built a dependency-free Python web server from scratch. Includes **LLM red-team scanning** via PromptFoo and agent memory management via OpenViking.
 
 `Python` `Shell` `Ollama` `PromptFoo` `LLM Security` `Red-Teaming`
 
