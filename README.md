@@ -1,4 +1,5 @@
 <!-- Dark Mode Banner Image -->
+
 <p align="center">
   <img src="./Assets/github-header-image.png" alt="Kevin Pulikkottil Banner" />
 </p>
@@ -45,22 +46,45 @@ I'm a senior CS student at UT Dallas with a focus on cybersecurity, software eng
 
 ## Featured Projects
 
-### 🔧 [ai-dev-utility](https://github.com/kpulik/ai-dev-utility)
-Four open-source AI developer tools unified into a single local setup and web dashboard. Built a dependency-free Python web server from scratch. Includes **LLM red-team scanning** via PromptFoo and agent memory management via OpenViking.
-
-`Python` `Shell` `Ollama` `PromptFoo` `LLM Security` `Red-Teaming`
-
----
-
 ### 🔑 Toyota TMNA Capstone: TEE Cryptography *(In Progress)*
+
 Implementing X25519 and X448 Elliptic Curve Diffie-Hellman key exchange within a Trusted Execution Environment for Toyota's Product Cybersecurity Group, targeting an Arm64 QEMU emulation environment.
 
 `Cryptography` `ECDH` `ARM64` `QEMU` `TEE` `C/C++`
 
 ---
 
+### 🔧 [ai-dev-utility](https://github.com/kpulik/ai-dev-utility)
+
+Local-first AI developer toolkit that unifies The Agency, Impeccable, PromptFoo, and MiniFish into one setup flow and web dashboard.
+Supports no-cost local workflows with Ollama, plus prompt evaluation and red-team testing for LLM applications.
+
+`Python` `Shell` `Ollama` `PromptFoo` `LLM Evaluation` `Security Testing`
+
+---
+
+### 💬 [GroupUs - GroupMe Desktop Client](https://github.com/kpulik/GroupUs)
+
+Unofficial cross-platform desktop client for GroupMe with OAuth sign-in, conversation filters, topic controls, and per-thread mute/read management.
+Designed for fast messaging workflows with customizable themes and built-in update support.
+
+`Desktop App` `OAuth` `API Integration` `Cross-Platform` `UX`
+
+---
+
+### 🧠 [VaultChat](https://github.com/kpulik/VaultChat)
+
+Multi-provider AI chat plugin for Obsidian with support for Anthropic, OpenAI, Gemini, OpenRouter, and local Ollama models.
+Includes vault-aware file read/edit/create/delete operations, streaming responses, and persistent searchable chat history.
+
+`Obsidian` `TypeScript` `LLM` `Ollama` `Plugin Development` `Productivity`
+
+---
+
 ### 🤖 [AI/ML Projects](https://github.com/kpulik/AI-Projects)
+
 ML models for medical diagnostics and NLP tasks.
+
 - Breast cancer detection: 92% accuracy (scikit-learn, pandas, NumPy)
 - CNN digit recognition: 98% accuracy (TensorFlow, Keras)
 - Transformer-based text summarization: 90% coherence score
@@ -72,6 +96,7 @@ ML models for medical diagnostics and NLP tasks.
 ---
 
 ### 🚨 [Crowdsourced Disaster Relief System](https://github.com/ceenguyen05/CS3354Project)
+
 Collaborative mobile app for real-time disaster coordination and resource tracking.
 
 `Dart` `Flutter`
@@ -81,6 +106,7 @@ Collaborative mobile app for real-time disaster coordination and resource tracki
 ## Technical Skills
 
 <!-- Languages -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -92,6 +118,7 @@ Collaborative mobile app for real-time disaster coordination and resource tracki
 </p>
 
 <!-- Security & Infra -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA%20Security+-CC0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
   <img src="https://img.shields.io/badge/Cryptography-333333?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Cryptography" />
@@ -103,6 +130,7 @@ Collaborative mobile app for real-time disaster coordination and resource tracki
 </p>
 
 <!-- AI/ML -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
