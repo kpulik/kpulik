@@ -132,14 +132,14 @@ Collaborative mobile app for real-time disaster coordination and resource tracki
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kpulik&show_icons=true&theme=dark" alt="Kpulik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpulik&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kpulik&show_icons=true&theme=dark" alt="Kpulik's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kpulik&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kpulik&column=7" alt="Kpulik's GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=kpulik&row=1&column=7" alt="Kpulik's GitHub Trophies" />
 </p>
 
 ---
