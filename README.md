@@ -18,18 +18,6 @@
   </a>
 </p>
 
-<p align="center"><strong>Support My Work</strong></p>
-<p align="center">
-  <a href="https://buymeacoffee.com/kpulik" target="_blank">
-    <img src="./Assets/support/buy-me-a-coffee-qr.png" alt="Buy Me a Coffee QR code" width="180" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://buymeacoffee.com/kpulik" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" />
-  </a>
-</p>
-
 ---
 
 ## About Me
@@ -152,4 +140,18 @@ Collaborative mobile app for real-time disaster coordination and resource tracki
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kpulik&column=7" alt="Kpulik's GitHub Trophies" />
+</p>
+
+---
+
+<p align="center"><strong>Support My Work</strong></p>
+<p align="center">
+  <a href="https://buymeacoffee.com/kpulik" target="_blank">
+    <img src="./Assets/support/buy-me-a-coffee-qr.png" alt="Buy Me a Coffee QR code" width="180" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://buymeacoffee.com/kpulik" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" />
+  </a>
 </p>
