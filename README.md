@@ -38,6 +38,8 @@ I'm a senior CS student at UT Dallas with a focus on cybersecurity, software eng
 
 Implementing X25519 and X448 Elliptic Curve Diffie-Hellman key exchange within a Trusted Execution Environment for Toyota's Product Cybersecurity Group, targeting an Arm64 QEMU emulation environment.
 
+**Impact:** Applied cryptography work for an automotive cybersecurity sponsor, focused on deployable secure key exchange inside a TEE.
+
 `Cryptography` `ECDH` `ARM64` `QEMU` `TEE` `C/C++`
 
 ---
@@ -46,6 +48,8 @@ Implementing X25519 and X448 Elliptic Curve Diffie-Hellman key exchange within a
 
 Local-first AI developer toolkit that unifies The Agency, Impeccable, PromptFoo, and MiniFish into one setup flow and web dashboard.
 Supports no-cost local workflows with Ollama, plus prompt evaluation and red-team testing for LLM applications.
+
+**Impact:** ![Stars](https://img.shields.io/github/stars/kpulik/ai-dev-utility?style=flat&label=Stars) ![Forks](https://img.shields.io/github/forks/kpulik/ai-dev-utility?style=flat&label=Forks) ![Updated](https://img.shields.io/github/last-commit/kpulik/ai-dev-utility?style=flat&label=Updated)
 
 `Python` `Shell` `Ollama` `PromptFoo` `LLM Evaluation` `Security Testing`
 
@@ -56,6 +60,8 @@ Supports no-cost local workflows with Ollama, plus prompt evaluation and red-tea
 Unofficial cross-platform desktop client for GroupMe with OAuth sign-in, conversation filters, topic controls, and per-thread mute/read management.
 Designed for fast messaging workflows with customizable themes and built-in update support.
 
+**Impact:** ![Stars](https://img.shields.io/github/stars/kpulik/GroupUs?style=flat&label=Stars) ![Forks](https://img.shields.io/github/forks/kpulik/GroupUs?style=flat&label=Forks) ![Updated](https://img.shields.io/github/last-commit/kpulik/GroupUs?style=flat&label=Updated)
+
 `Desktop App` `OAuth` `API Integration` `Cross-Platform` `UX`
 
 ---
@@ -64,6 +70,8 @@ Designed for fast messaging workflows with customizable themes and built-in upda
 
 Multi-provider AI chat plugin for Obsidian with support for Anthropic, OpenAI, Gemini, OpenRouter, and local Ollama models.
 Includes vault-aware file read/edit/create/delete operations, streaming responses, and persistent searchable chat history.
+
+**Impact:** ![Stars](https://img.shields.io/github/stars/kpulik/VaultChat?style=flat&label=Stars) ![Forks](https://img.shields.io/github/forks/kpulik/VaultChat?style=flat&label=Forks) ![Updated](https://img.shields.io/github/last-commit/kpulik/VaultChat?style=flat&label=Updated)
 
 `Obsidian` `TypeScript` `LLM` `Ollama` `Plugin Development` `Productivity`
 
@@ -79,6 +87,8 @@ ML models for medical diagnostics and NLP tasks.
 - Diabetes prediction regression model with feature engineering
 - YOLOv3 fine-tuning for real-time object detection
 
+**Impact:** ![Stars](https://img.shields.io/github/stars/kpulik/AI-Projects?style=flat&label=Stars) ![Forks](https://img.shields.io/github/forks/kpulik/AI-Projects?style=flat&label=Forks) ![Updated](https://img.shields.io/github/last-commit/kpulik/AI-Projects?style=flat&label=Updated)
+
 `Python` `TensorFlow` `Keras` `scikit-learn` `NumPy`
 
 ---
@@ -86,6 +96,8 @@ ML models for medical diagnostics and NLP tasks.
 ### 🚨 [Crowdsourced Disaster Relief System](https://github.com/ceenguyen05/CS3354Project)
 
 Collaborative mobile app for real-time disaster coordination and resource tracking.
+
+**Impact:** ![Stars](https://img.shields.io/github/stars/ceenguyen05/CS3354Project?style=flat&label=Stars) ![Forks](https://img.shields.io/github/forks/ceenguyen05/CS3354Project?style=flat&label=Forks) ![Updated](https://img.shields.io/github/last-commit/ceenguyen05/CS3354Project?style=flat&label=Updated)
 
 `Dart` `Flutter`
 
@@ -141,6 +153,12 @@ Collaborative mobile app for real-time disaster coordination and resource tracki
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=kpulik&row=1&column=7" alt="Kpulik's GitHub Trophies" />
 </p>
+
+## Weekly Development Snapshot
+
+<!--START_SECTION:weekly-activity-->
+- Pending first automated update.
+<!--END_SECTION:weekly-activity-->
 
 ---
 
