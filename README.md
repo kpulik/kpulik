@@ -17,6 +17,14 @@ Open to cybersecurity, DevSecOps, software engineering, and AI/ML roles.
 
 ---
 
+### Open Source Contributions
+
+**[MemPalace](https://github.com/milla-jovovich/mempalace)** - Added first-class `mempalace mcp` CLI subcommand ([#315](https://github.com/milla-jovovich/mempalace/pull/315))
+MCP setup required manual configuration with no CLI support or clear guidance. Added the `mempalace mcp` subcommand, improved setup documentation including custom palace path handling, and added regression tests for CLI behavior. Fixes [#296](https://github.com/milla-jovovich/mempalace/issues/296).
+`Python` `CLI` `MCP` `Open Source`
+
+---
+
 ### Featured Work
 
 **Toyota TMNA Capstone: TEE Cryptography** · *In Progress*
