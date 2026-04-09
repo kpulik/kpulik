@@ -36,7 +36,7 @@ Multi-provider AI chat plugin for Obsidian with vault-aware file operations, str
 `TypeScript` `Obsidian` `LLM` `Plugin Development`
 
 **[AI/ML Projects](https://github.com/kpulik/AI-Projects)**
-Collection of ML models - breast cancer detection (92% acc), CNN digit recognition (98% acc), transformer summarization, YOLOv3 fine-tuning.
+Collection of ML models - breast cancer detection (95.61% acc), CNN digit recognition (98% acc), transformer summarization, YOLOv3 fine-tuning.
 `Python` `TensorFlow` `scikit-learn`
 
 ---
