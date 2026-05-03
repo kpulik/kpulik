@@ -11,7 +11,7 @@
 
 ### About
 
-Senior CS student at UT Dallas focused on cybersecurity, software engineering, and AI/ML. Currently implementing **X25519/X448 ECDH key exchange inside a Trusted Execution Environment** on Arm64 QEMU for Toyota's TMNA Product Cybersecurity Group. Active member of UT Dallas Computer Security Group (CSG) and Cyber Defense and Response Unit (CDRU). Pursuing CompTIA Security+.
+Senior CS student at UT Dallas focused on cybersecurity, software engineering, and AI/ML. Currently implementing **X25519/X448 ECDH key exchange inside a Trusted Execution Environment** on Arm64 QEMU for Toyota's TMNA Product Cybersecurity Group. Active member of UT Dallas Computer Security Group (CSG) and Cyber Defense and Response Unit (CDRU). **CompTIA Security+ certified as of April 2026**.
 
 Open to cybersecurity, DevSecOps, software engineering, and AI/ML roles.
 
