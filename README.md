@@ -1,7 +1,7 @@
 # Kevin Pulikkottil
 
-**Computer Science @ UT Dallas · Class of 2026**
-**Security · Software Engineering · AI/ML**
+**B.S. Computer Science · UT Dallas '26**
+Security · Software Engineering · AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kpulik)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=safari&logoColor=white)](https://kpulik.github.io/Portfolio/)
@@ -11,31 +11,27 @@
 
 ### About
 
-Senior CS student at UT Dallas focused on cybersecurity, software engineering, and AI/ML. Currently implementing **X25519/X448 ECDH key exchange inside a Trusted Execution Environment** on Arm64 QEMU for Toyota's TMNA Product Cybersecurity Group. Active member of UT Dallas Computer Security Group (CSG) and Cyber Defense and Response Unit (CDRU). Pursuing CompTIA Security+.
+Recent CS graduate from UT Dallas focused on cybersecurity, software engineering, and AI/ML. Former member of the UT Dallas Computer Security Group (CSG) and Cyber Defense and Response Unit (CDRU). Pursuing CompTIA Security+.
 
-Open to cybersecurity, DevSecOps, software engineering, and AI/ML roles.
-
----
-
-### Open Source Contributions
-
-**[MemPalace](https://github.com/milla-jovovich/mempalace)** - Added first-class `mempalace mcp` CLI subcommand ([#315](https://github.com/milla-jovovich/mempalace/pull/315))
-MCP setup required manual configuration with no CLI support or clear guidance. Added the `mempalace mcp` subcommand, improved setup documentation including custom palace path handling, and added regression tests for CLI behavior. Fixes [#296](https://github.com/milla-jovovich/mempalace/issues/296).
-`Python` `CLI` `MCP` `Open Source`
+Open to full-time cybersecurity, DevSecOps, software engineering, and AI/ML roles.
 
 ---
 
 ### Featured Work
 
-**Toyota TMNA Capstone: TEE Cryptography** · *In Progress*
-Implementing X25519 and X448 ECDH key exchange within a Trusted Execution Environment for Toyota's Product Cybersecurity Group, targeting Arm64 QEMU emulation.
+**Toyota TMNA Capstone — TEE Cryptography**
+Implemented X25519 and X448 ECDH key exchange within a Trusted Execution Environment for Toyota's Product Cybersecurity Group, targeting Arm64 QEMU emulation.
 `C/C++` `Cryptography` `ARM64` `QEMU` `TEE`
+
+**[MemPalace](https://github.com/milla-jovovich/mempalace)** — Open source contribution
+Added the `mempalace mcp` CLI subcommand ([#315](https://github.com/milla-jovovich/mempalace/pull/315)), with setup docs and regression tests for CLI behavior. Fixes [#296](https://github.com/milla-jovovich/mempalace/issues/296).
+`Python` `CLI` `MCP`
 
 **[ai-dev-utility](https://github.com/kpulik/ai-dev-utility)**
 Local-first AI developer toolkit unifying prompt evaluation, red-team testing, and LLM workflows with Ollama support.
 `Python` `Shell` `Ollama` `PromptFoo`
 
-**[GroupUs](https://github.com/kpulik/GroupUs) - GroupMe Desktop Client**
+**[GroupUs](https://github.com/kpulik/GroupUs)** — GroupMe Desktop Client
 Unofficial cross-platform desktop client for GroupMe with OAuth, conversation filters, and customizable themes.
 `Desktop App` `OAuth` `API Integration` `Cross-Platform`
 
@@ -44,7 +40,7 @@ Multi-provider AI chat plugin for Obsidian with vault-aware file operations, str
 `TypeScript` `Obsidian` `LLM` `Plugin Development`
 
 **[AI/ML Projects](https://github.com/kpulik/AI-Projects)**
-Collection of ML models - breast cancer detection (95.61% acc), CNN digit recognition (98% acc), transformer summarization, YOLOv3 fine-tuning.
+Breast cancer detection (95.61% acc), CNN digit recognition (98% acc), transformer summarization, YOLOv3 fine-tuning.
 `Python` `TensorFlow` `scikit-learn`
 
 ---
@@ -67,10 +63,6 @@ Collection of ML models - breast cancer detection (95.61% acc), CNN digit recogn
 ---
 
 <p align="center">
-  <a href="https://buymeacoffee.com/kpulik" target="_blank">
-    <img src="./Assets/support/buy-me-a-coffee-qr.png" alt="Buy Me a Coffee QR code" width="120" />
-  </a>
-  <br />
   <a href="https://buymeacoffee.com/kpulik" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" />
   </a>
