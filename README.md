@@ -11,7 +11,7 @@ Security · Software Engineering · AI/ML
 
 ### About
 
-Recent CS graduate from UT Dallas focused on cybersecurity, software engineering, and AI/ML. Former member of the UT Dallas Computer Security Group (CSG) and Cyber Defense and Response Unit (CDRU). Pursuing CompTIA Security+.
+Recent CS graduate from UT Dallas focused on cybersecurity, software engineering, and AI/ML. Former member of the UT Dallas Computer Security Group (CSG) and Cyber Defense and Response Unit (CDRU). **CompTIA Security+ certified as of April 2026**.
 
 Open to full-time cybersecurity, DevSecOps, software engineering, and AI/ML roles.
 
