@@ -67,9 +67,16 @@ Breast cancer detection (95.61% acc), CNN digit recognition (98% acc), transform
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kpulik&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kpulik&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/kpulik?tab=repositories">
+    <img src="./Assets/github-stats.svg" width="470" alt="GitHub stats for public, non-fork repositories" />
+  </a>
+  <br />
+  <a href="https://github.com/kpulik?tab=repositories">
+    <img src="./Assets/top-languages.svg" width="470" alt="Top languages by code bytes in public, non-fork repositories" />
+  </a>
 </p>
+
+[Refreshed daily with GitHub Actions](https://github.com/kpulik/kpulik/actions/workflows/profile-stats.yml). Language shares reflect code size, not proficiency.
 
 ---
 
