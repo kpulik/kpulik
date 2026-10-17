@@ -23,9 +23,11 @@ Open to full-time cybersecurity, DevSecOps, software engineering, and AI/ML role
 Implemented X25519 and X448 ECDH key exchange within a Trusted Execution Environment for Toyota's Product Cybersecurity Group, targeting Arm64 QEMU emulation.
 `C/C++` `Cryptography` `ARM64` `QEMU` `TEE`
 
-**[MemPalace](https://github.com/milla-jovovich/mempalace)** — Open source contribution
+**[MemPalace](https://github.com/MemPalace/mempalace)** — Open source contributions
+Added opt-in, experimental EmbeddingGemma 2 support and native local image, audio, and video retrieval ([#2694](https://github.com/MemPalace/mempalace/pull/2694)). Includes embedding-space validation, recovery safeguards, CLI/MCP search controls, tests, and documentation. Merged into `develop` on October 10, 2026; all 13 CI checks passed.
+
 Added the `mempalace mcp` CLI subcommand ([#315](https://github.com/milla-jovovich/mempalace/pull/315)), with setup docs and regression tests for CLI behavior. Fixes [#296](https://github.com/milla-jovovich/mempalace/issues/296).
-`Python` `CLI` `MCP`
+`Python` `PyTorch` `Sentence Transformers` `Multimodal Retrieval` `CLI` `MCP`
 
 **[ai-dev-utility](https://github.com/kpulik/ai-dev-utility)**
 Local-first AI developer toolkit unifying prompt evaluation, red-team testing, and LLM workflows with Ollama support.
