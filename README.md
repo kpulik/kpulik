@@ -1,6 +1,6 @@
 # Kevin Pulikkottil
 
-**B.S. Computer Science · UT Dallas '26**
+**B.S. Computer Science · UT Dallas '26 · Starting an in-person M.C.S. at UIUC, Spring 2027**
 Security · Software Engineering · AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kpulik)
@@ -11,7 +11,7 @@ Security · Software Engineering · AI/ML
 
 ### About
 
-Computer Science graduate from UT Dallas, based in San Jose, CA, focused on cybersecurity, software engineering, and AI/ML. Former member of the UT Dallas Computer Security Group (CSG) and Cyber Defense and Response Unit (CDRU). **CompTIA Security+ certified as of April 2026**.
+Computer Science graduate from UT Dallas, based in San Jose, CA, focused on cybersecurity, software engineering, and AI/ML. Former member of the UT Dallas Computer Security Group (CSG) and Cyber Defense and Response Unit (CDRU). **CompTIA Security+ certified as of April 2026**. Starting an in-person Master of Computer Science at the University of Illinois Urbana-Champaign (UIUC) in spring 2027.
 
 Open to full-time cybersecurity, DevSecOps, software engineering, and AI/ML roles.
 
